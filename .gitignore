@@ -7,6 +7,7 @@
 
 # file 不需要提交的文件
 !.gitignore
+!README.md
 
 # log 不需要提交的任意包含后缀名为log的文件
 ; *.log
